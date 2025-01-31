@@ -15,6 +15,9 @@ git config user.email = setare email(local/pe proiect)
 git config --global user.name = setare nume (global/definitiv)
 git config --global user.email = setare email (global/definitv)
 
+Deschiderea editorului Visual Studio Code ca editor default pentru git
+git config --global core.editor "code --wait"
+
 Comenzi de creare a commitului:
 git commit -m " Acesta este un mesaj descriptiv al commitului "
 git commit --message " Acesta este un mesaj descriptiv al commitului "
