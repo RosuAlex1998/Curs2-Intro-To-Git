@@ -11,6 +11,6 @@ git add filename.*
 git add filename1 filename2 filename3
 
 git config user.name = setare nume (local/pe proiect)
-git config user.emamil = setare email(local/pe proiect)
+git config user.email = setare email(local/pe proiect)
 git config --global user.name = setare nume (global/definitiv)
 git config --global user.email = setare email (global/definitv)
