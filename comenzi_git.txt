@@ -26,3 +26,11 @@ Comanda de adauga + commit (!!! Fisierele trebuie sa fi fost incluse intr-un com
 git commit -am " Acesta este un mesaj descriptiv al commitului "
 
 git commit --ammend = modifici ultimul commit 
+
+Pentru a pune codul pe server:
+git push
+git push origin
+
+Pentru a pune codul de pe server:
+git pull
+git pull origin
